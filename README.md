@@ -66,4 +66,4 @@ Type letters using your keyboard or the on-screen keyboard, then press Enter to 
 
 ## License
 
-MIT
+Xoiklo443
